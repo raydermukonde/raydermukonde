@@ -3,8 +3,8 @@
 <h3 align="center">💡 Founder of GreenPulse & Authen-Tech | Flutter & Next.js Developer | Building Africa-focused Tech</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:marc.mukonde@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b6b?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/marc-mukonde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:marcteddymukonde@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b6b?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/From-DRCongo-32CD32?style=flat&logo=earth"/>
 </p>
 
@@ -108,5 +108,5 @@ Je conçois des solutions **FinTech** et **d’authentification documentaire** a
   💬 *“If you can dream it, you can build it.”*  
 </p>
 
-📧 marc.mukonde@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/...) | [Portfolio](https://...)  
+📧 marcteddymukonde@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/marc-mukonde) | [Portfolio](https://...)  
