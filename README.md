@@ -1,5 +1,5 @@
 <!-- Banner / Introduction -->
-<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Marc Mukonde</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#38BDF8;">Marc Teddy Mukonde</span></h1>
 <h3 align="center">💡 Founder of GreenPulse & Authen-Tech | Flutter & Next.js Developer | Building Africa-focused Tech</h3>
 
 <p align="center">
@@ -35,7 +35,7 @@ I build modern, scalable solutions addressing real African challenges — from *
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Authen-Tech](https://github.com/marc-mukonde/authen-tech)
+### 🛡️ [Authen-Tech](https://github.com/raydermukonde/auth-main25)
 > Flutter app for **document authenticity verification**
 
 - 🔍 Text extraction with ML Kit  
@@ -45,7 +45,7 @@ I build modern, scalable solutions addressing real African challenges — from *
 
 ---
 
-### 💸 [GreenPulse](https://github.com/marc-mukonde/greenpulse)
+### 💸 [GreenPulse](https://github.com/raydermukonde/broke)
 > Contactless payment platform for **African SMEs**
 
 - 📱 QR code–based payment system  
@@ -74,8 +74,8 @@ I build modern, scalable solutions addressing real African challenges — from *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marc-mukonde&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-mukonde&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raydermukonde&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raydermukonde&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 ---
@@ -83,9 +83,9 @@ I build modern, scalable solutions addressing real African challenges — from *
 ## 📫 Contact
 
 <p align="center">
-  📧 <a href="mailto:marc.mukonde@email.com">marc.mukonde@email.com</a>  
+  📧 <a href="mailto:marcteddumukonde@email.com">marc.mukonde@email.com</a>  
   <br/>
-  🔗 <a href="https://linkedin.com/in/tonprofil">LinkedIn</a> | <a href="https://tonsite.com">Portfolio</a>
+  🔗 <a href="https://linkedin.com/in/marc-mukonde">LinkedIn</a> | <a href="https://tonsite.com">Portfolio</a>
 </p>
 
 ---
